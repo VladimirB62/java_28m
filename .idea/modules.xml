@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/classwork/1.09.2022/1.09.2022.iml" filepath="$PROJECT_DIR$/classwork/1.09.2022/1.09.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classwork/13.09.2022/13.09.2022.iml" filepath="$PROJECT_DIR$/classwork/13.09.2022/13.09.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classwork/15.09.2022/15.09.2022.iml" filepath="$PROJECT_DIR$/classwork/15.09.2022/15.09.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/16.08.2022.iml" filepath="$PROJECT_DIR$/Homework/16.08.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/16.09.2022/16.09.2022_FibonacciTests.iml" filepath="$PROJECT_DIR$/Homework/16.09.2022/16.09.2022_FibonacciTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classwork/2.09.2022_Stream/2.09.2022_Stream.iml" filepath="$PROJECT_DIR$/classwork/2.09.2022_Stream/2.09.2022_Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/30.08.2022/30.08.2022.iml" filepath="$PROJECT_DIR$/Homework/30.08.2022/30.08.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/4.09.2022/4.09.2022.iml" filepath="$PROJECT_DIR$/Homework/4.09.2022/4.09.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/8.08.2022/8.09.2022.iml" filepath="$PROJECT_DIR$/Homework/8.08.2022/8.09.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_classes_18.08/anonymousClass/anonymousClass.iml" filepath="$PROJECT_DIR$/inner_classes_18.08/anonymousClass/anonymousClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classwork/classwork.iml" filepath="$PROJECT_DIR$/classwork/classwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/inner_classes_18-23.08.iml" filepath="$PROJECT_DIR$/Homework/inner_classes_18-23.08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_classes_18.08/inner_classes_18.08.iml" filepath="$PROJECT_DIR$/inner_classes_18.08/inner_classes_18.08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_classes_18.08/inner_notstatic_class/inner_notstatic_class.iml" filepath="$PROJECT_DIR$/inner_classes_18.08/inner_notstatic_class/inner_notstatic_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_28m.iml" filepath="$PROJECT_DIR$/java_28m.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_classes_18.08/local_class/local_class.iml" filepath="$PROJECT_DIR$/inner_classes_18.08/local_class/local_class.iml" />
+    </modules>
+  </component>
+</project>
